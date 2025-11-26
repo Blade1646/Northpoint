@@ -15,7 +15,8 @@ This project, built with **Unreal Engine 5** using a combination of **Blueprints
 
 ## Getting Started
 
-The playable build can be downloaded from the [[#Links]] section. To play, download the ZIP, extract it, and run Northpoint.exe. No installation is required.
+The playable build can be downloaded from the [Links](#links) section. To play, download the ZIP, extract it, and run Northpoint.exe. No installation is required.
+
 Northpoint is developed for PC and is intended to run on hardware roughly comparable to the development setup. The game is lightweight but relies on responsive input and stable framerate for the best experience.
 
 ### Recommended Specifications
@@ -53,6 +54,7 @@ Northpoint is developed for PC and is intended to run on hardware roughly compar
 ## Links
 
 The full gameplay demonstration is available on [YouTube](https://youtu.be/NE6zoL3Ko5I).
+
 The playable build can be downloaded from [Drive](https://drive.google.com/file/d/16H-_m4odlQ1gd3dbfcysnURe5kFELkIJ/view?usp=sharing).
 
 ## Credits
